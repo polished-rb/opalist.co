@@ -5,7 +5,7 @@
     <div class="container">
 
       <h1 class="title">
-        <a href="{{ site.baseurl }}/">{{ site.title }}</a> <small>v2</small>
+        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
       </h1>
 
       <nav class="navbar">
@@ -21,7 +21,6 @@
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
-          <li><a href="{{ site.author.url }}/about" target="_blank">the autor</a></li>
           <li><a href="{{ site.github }}" target="_blank">Github</a></li>
         </ul>
       </nav>
@@ -29,7 +28,7 @@
 
     {% if page.slug == 'home' %}
       <h2 class="txt-center">
-        Welcome to <strong>{{ site.title }}</strong>!
+        Write real Ruby and run it in a browser? <strong>That's crazy talk.</strong>
       </h2>
     {% endif %}
 
