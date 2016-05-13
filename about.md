@@ -9,6 +9,9 @@ Ahem...we're still working on this page, so at present, it's not all you need to
 
 In the meantime, [check out the official Opal website](http://opalrb.org) which has an in-browser code demo, documentation, links to top supporting gems, and lots more. Also, we publish regularly on our [Opalist blog](/blog), so be sure to sign up for the bi-weekly newsletter using the form below!
 
+----
+
+{% include subscription_form.html %}
 
 ----
 

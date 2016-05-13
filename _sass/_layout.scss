@@ -291,6 +291,15 @@
   }
 }
 
+
+form input[type=email] {
+
+  width: 250px;
+  @include media-query($on-phone) {
+    width: 200px;
+  }
+}
+
 // Pagination
 //
 .pagination {
