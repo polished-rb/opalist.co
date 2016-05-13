@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
-slug: about
+permalink: /about-opal/
 ---
 
-*TEST*
+Ahem...we're still working on this page, so at present, it's not all you need to know. :(
 
-This is a Jekyll theme. You can find out more information about customizing your theme Jekyll, as well as basic documentation Jekyll use in [jekyllrb.com](http://jekyllrb.com/).
+In the meantime, [check out the official Opal website](http://opalrb.org) which has an in-browser code demo, documentation, links to top supporting gems, and lots more. Also, we publish regularly on our [Opalist blog](/blog), so be sure to sign up for the bi-weekly newsletter using the form below!
 
-You can find the source code for this theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
 
-You can find the source code in Jekyll [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+----
 
-Theme developed by: [{{ site.author.name }}]({{ site.author.url }})
+Thanks to [github.com/nandomoreirame/zetsu](http://github.com/nandomoreirame/zetsu) for the starter Jekyll theme!

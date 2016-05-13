@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # Site settings
 title: Opalist
 email: hello@whitefusion.io
