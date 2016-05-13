@@ -18,8 +18,8 @@ github: https://github.com/polished-rb/opalist.co
 #disqus_shortname: "fernandomoreira"
 #google_analytics: UA-52446115-1
 
-paginate: 2
-comments: true
+paginate: 6
+comments: false
 paginate_path: "/page/:num"
 
 sass:
