@@ -13,11 +13,11 @@ Thanks to [github.com/nandomoreirame/zetsu](http://github.com/nandomoreirame/zet
 ### Start contributing in 4 steps
 
 1. Download or clone repo `git clone git@github.com:polished-rb/opalist.co.git`
-2. Enter the folder: `cd opalist-co/`
+2. Enter the folder: `cd opalist.co/`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`
 
-Access, [localhost:4000/](http://localhost:4000/)
+Access at [localhost:4000/](http://localhost:4000/)
 
 ---
 
