@@ -144,7 +144,7 @@
     padding: 0;
     display: inline-block;
     text-decoration: none;
-    color: darken($white-color, 25%);
+    color: $white-color;
     @include transition(color .2s linear);
   }
 
