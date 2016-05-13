@@ -16,7 +16,7 @@ author:
 
 github: https://github.com/polished-rb/opalist.co
 #disqus_shortname: "fernandomoreira"
-#google_analytics: UA-52446115-1
+google_analytics: UA-28477462-7
 
 paginate: 6
 comments: false
